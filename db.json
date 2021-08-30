@@ -1,0 +1,23 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Я тебя люблю:3 А еще я закончил курсек по реакту))) 😗",
+      "attention": false,
+      "tech": "Tim Kozak",
+      "date": "2021-08-30T23:40:08.596Z"
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Tim",
+      "lastName": "Kozak",
+      "id": 2
+    },
+    {
+      "firstName": "Dasha",
+      "lastName": "Shabatska",
+      "id": 3
+    }
+  ]
+}
